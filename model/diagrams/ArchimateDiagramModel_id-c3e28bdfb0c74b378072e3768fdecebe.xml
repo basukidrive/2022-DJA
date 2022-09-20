@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Struktur Organisasi DJA"
+    id="id-c3e28bdfb0c74b378072e3768fdecebe"
+    viewpoint="organization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2839b98025c74e6faf1e679bf8a438bf">
+    <bounds
+        x="166"
+        y="144"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-ed26e9a342434cada111dd14316f22cb.xml#id-ed26e9a342434cada111dd14316f22cb"/>
+  </children>
+</archimate:ArchimateDiagramModel>

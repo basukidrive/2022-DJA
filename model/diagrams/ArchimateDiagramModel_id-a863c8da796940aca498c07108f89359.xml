@@ -9,8 +9,8 @@
       name="Bisnis"
       textAlignment="1">
     <bounds
-        x="1068"
-        y="348"
+        x="720"
+        y="324"
         width="504"
         height="960"/>
     <children
@@ -56,8 +56,8 @@
       name="Data"
       textAlignment="1">
     <bounds
-        x="1680"
-        y="324"
+        x="1392"
+        y="348"
         width="504"
         height="960"/>
     <children
@@ -103,8 +103,8 @@
       name="Umum"
       textAlignment="1">
     <bounds
-        x="408"
-        y="360"
+        x="60"
+        y="336"
         width="504"
         height="960"/>
     <children
@@ -150,8 +150,8 @@
       name="Aplikasi"
       textAlignment="1">
     <bounds
-        x="2376"
-        y="348"
+        x="2124"
+        y="336"
         width="504"
         height="960"/>
     <children
@@ -197,8 +197,8 @@
       name="Teknologi"
       textAlignment="1">
     <bounds
-        x="2976"
-        y="348"
+        x="2712"
+        y="324"
         width="504"
         height="960"/>
     <children
