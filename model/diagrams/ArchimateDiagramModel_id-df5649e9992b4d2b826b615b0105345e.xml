@@ -1,0 +1,33 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peraturan"
+    id="id-df5649e9992b4d2b826b615b0105345e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4786bf5269cf4801848342e62d17e64f">
+    <bounds
+        x="96"
+        y="60"
+        width="493"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-e8b68538af4a4762a78d64a9e12cee7b"
+        textAlignment="1"
+        alpha="110"
+        content="1. UU Nomor 8 Tahun 2018 tentang Penerimaan Negara Bukan Pajak;&#xD;&#xA;2. PMK Nomor 155/PMK.02/2021 tentang Tata Cara Pengelolaan PNBP;&#xD;&#xA;3. 118_PMK.010_2021 Organisasi dan Tata Kerja Kementerian Keuangan;&#xD;&#xA;4. KMK_269_KMK.01_2021 tentang Tata Kelola Data Kemenkeu;&#xD;&#xA;5. KMK-596_KMK.01_2020 Pengelolaan Infra TIK Kemenkeu;&#xD;&#xA;6. KMK-798_KMK.01_2021 Pengembangan SI di Lingkungan Kemenkeu&#xD;&#xA;7. Peraturan Dirjen Anggaran nomor 13/AG/2021 tentang Petunjuk Teknis Pelaksanaan Penghentian dan Pembukaan Kembali Layanan Akses Kode Billing Simponi serta Rekomendasi Pemblokiran dan Pembukaan Kembali Akses Kepabeanan;&#xD;&#xA;8. Perdirjen Nomor 69/AG/2020 tentang Renstra Direktorat Jenderal Anggaran 2020 - 2024;&#xD;&#xA;&#xD;&#xA;">
+      <features
+          name="lineAlpha"
+          value="155"/>
+      <bounds
+          x="24"
+          y="36"
+          width="445"
+          height="193"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-56d90cc409484eeb8a795315aca859a8.xml#id-56d90cc409484eeb8a795315aca859a8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
