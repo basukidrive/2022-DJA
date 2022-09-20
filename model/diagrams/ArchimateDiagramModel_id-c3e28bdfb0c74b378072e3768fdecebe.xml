@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Struktur Organisasi DJA"
-    id="id-c3e28bdfb0c74b378072e3768fdecebe"
-    viewpoint="organization">
+    id="id-c3e28bdfb0c74b378072e3768fdecebe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-664a3c1e233f431b95ae96f36a28d0a3">
