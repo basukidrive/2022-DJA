@@ -15,7 +15,11 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-e8b68538af4a4762a78d64a9e12cee7b"
         textAlignment="1"
+        alpha="110"
         content="1. UU Nomor 8 Tahun 2018 tentang Penerimaan Negara Bukan Pajak;&#xD;&#xA;2. PMK Nomor 155/PMK.02/2021 tentang Tata Cara Pengelolaan PNBP;&#xD;&#xA;3. 118_PMK.010_2021 Organisasi dan Tata Kerja Kementerian Keuangan;&#xD;&#xA;4. KMK_269_KMK.01_2021 tentang Tata Kelola Data Kemenkeu;&#xD;&#xA;5. KMK-596_KMK.01_2020 Pengelolaan Infra TIK Kemenkeu;&#xD;&#xA;6. KMK-798_KMK.01_2021 Pengembangan SI di Lingkungan Kemenkeu&#xD;&#xA;7. Peraturan Dirjen Anggaran nomor 13/AG/2021 tentang Petunjuk Teknis Pelaksanaan Penghentian dan Pembukaan Kembali Layanan Akses Kode Billing Simponi serta Rekomendasi Pemblokiran dan Pembukaan Kembali Akses Kepabeanan;&#xD;&#xA;8. Perdirjen Nomor 69/AG/2020 tentang Renstra Direktorat Jenderal Anggaran 2020 - 2024;&#xD;&#xA;&#xD;&#xA;">
+      <features
+          name="lineAlpha"
+          value="155"/>
       <bounds
           x="24"
           y="36"
