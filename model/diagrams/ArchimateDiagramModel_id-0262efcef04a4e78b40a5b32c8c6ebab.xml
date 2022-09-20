@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-0262efcef04a4e78b40a5b32c8c6ebab">
+    name="Visi dan Misi DJA"
+    id="id-0262efcef04a4e78b40a5b32c8c6ebab"
+    documentation="Renstra DAJ 2020 - 2024">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e49958c1ec624fb5becb97b5cdee10b3">
