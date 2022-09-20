@@ -133,8 +133,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b4fb1ae4e3ba4a628006448560007821">
     <bounds
-        x="110"
-        y="360"
+        x="120"
+        y="348"
         width="109"
         height="31"/>
     <archimateElement
@@ -193,8 +193,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e31f23df426a4906a31464333c2de7e4">
     <bounds
-        x="108"
-        y="297"
+        x="120"
+        y="288"
         width="113"
         height="37"/>
     <archimateElement
