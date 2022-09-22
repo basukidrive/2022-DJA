@@ -144,6 +144,20 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cdbf0672774d4a3781c1b9b73ae0a28b"
       targetConnections="id-cc4037adfb8e41afb65de971792948f2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2a206744d09a42c5a05bf1f3137f14fc"
+        source="id-cdbf0672774d4a3781c1b9b73ae0a28b"
+        target="id-43c75c11299c462f956e03cb626e52a2">
+      <bendpoints
+          startX="6"
+          startY="69"
+          endX="-312"
+          endY="12"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-4bbbd342eac34284be0ee20bfaf9b89c.xml#id-4bbbd342eac34284be0ee20bfaf9b89c"/>
+    </sourceConnections>
     <bounds
         x="192"
         y="564"
@@ -157,6 +171,20 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-03ca001f6a0242aaae8858b5285b3589"
       targetConnections="id-f2318e52c69a4aef9824b2d04e6852f3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8a1e8f82c98c45b5a51d7396a5a2aa01"
+        source="id-03ca001f6a0242aaae8858b5285b3589"
+        target="id-43c75c11299c462f956e03cb626e52a2">
+      <bendpoints
+          startX="6"
+          startY="-75"
+          endX="-312"
+          endY="12"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-2a51176afd414c0b8ceaa2283b96abf9.xml#id-2a51176afd414c0b8ceaa2283b96abf9"/>
+    </sourceConnections>
     <bounds
         x="192"
         y="708"
@@ -200,5 +228,19 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-1c001cf8285f4958bd35010e9e52c8b5.xml#id-1c001cf8285f4958bd35010e9e52c8b5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-43c75c11299c462f956e03cb626e52a2"
+      targetConnections="id-2a206744d09a42c5a05bf1f3137f14fc id-8a1e8f82c98c45b5a51d7396a5a2aa01"
+      textPosition="1">
+    <bounds
+        x="528"
+        y="600"
+        width="120"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-f162bb7d594343a0b37173166e771900.xml#id-f162bb7d594343a0b37173166e771900"/>
   </children>
 </archimate:ArchimateDiagramModel>
