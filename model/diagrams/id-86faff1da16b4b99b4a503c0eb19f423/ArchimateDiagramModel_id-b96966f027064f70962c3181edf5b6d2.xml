@@ -11,11 +11,12 @@
     <bounds
         x="24"
         y="192"
-        width="649"
+        width="757"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7e938901d3ca4f8992c2bb348dd2b6b0">
+        id="id-7e938901d3ca4f8992c2bb348dd2b6b0"
+        textPosition="1">
       <bounds
           x="12"
           y="72"
@@ -27,11 +28,12 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e8a6dc715b0d4374813aa68f4c2513fb">
+        id="id-e8a6dc715b0d4374813aa68f4c2513fb"
+        textPosition="1">
       <bounds
           x="300"
           y="72"
-          width="109"
+          width="121"
           height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -39,11 +41,12 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-140a409365cf4f609e09d34bfe51dafc">
+        id="id-140a409365cf4f609e09d34bfe51dafc"
+        textPosition="1">
       <bounds
-          x="420"
+          x="444"
           y="72"
-          width="85"
+          width="121"
           height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -51,11 +54,12 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-33169a2fdc1e412ea85fa087712dcb83">
+        id="id-33169a2fdc1e412ea85fa087712dcb83"
+        textPosition="1">
       <bounds
-          x="528"
+          x="588"
           y="72"
-          width="85"
+          width="133"
           height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -63,7 +67,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-73283e85aee54f4bbd5a303f12a8db41">
+        id="id-73283e85aee54f4bbd5a303f12a8db41"
+        textPosition="1">
       <bounds
           x="156"
           y="72"
@@ -80,16 +85,17 @@
       name="Aplikasi Eksternal terkait PNBP"
       textAlignment="1">
     <bounds
-        x="36"
+        x="24"
         y="48"
-        width="577"
+        width="649"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d47fc4c05b354ce6977fca7251d5bf0b">
+        id="id-d47fc4c05b354ce6977fca7251d5bf0b"
+        textPosition="1">
       <bounds
-          x="46"
-          y="43"
+          x="12"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -98,10 +104,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d9a1c5956cc24fda96d778165acd4200">
+        id="id-d9a1c5956cc24fda96d778165acd4200"
+        textPosition="1">
       <bounds
-          x="180"
-          y="48"
+          x="156"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -110,10 +117,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-b250c28006d34eaba7cca522b288aa76">
+        id="id-b250c28006d34eaba7cca522b288aa76"
+        textPosition="1">
       <bounds
-          x="324"
-          y="48"
+          x="300"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
