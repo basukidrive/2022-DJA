@@ -149,8 +149,8 @@
           textPosition="1">
         <bounds
             x="24"
-            y="36"
-            width="108"
+            y="132"
+            width="121"
             height="36"/>
         <archimateElement
             xsi:type="archimate:ApplicationCollaboration"
@@ -161,8 +161,8 @@
           id="id-630c005595a844b293983d91dd4a467f"
           fillColor="#ffff00">
         <bounds
-            x="24"
-            y="180"
+            x="163"
+            y="132"
             width="108"
             height="36"/>
         <archimateElement
@@ -174,8 +174,8 @@
           id="id-157c86c9357240afa38b636546b7df67"
           fillColor="#ffff00">
         <bounds
-            x="24"
-            y="81"
+            x="163"
+            y="36"
             width="108"
             height="36"/>
         <archimateElement
@@ -187,8 +187,8 @@
           id="id-20c527737bc74fb492d13ab3d042969c"
           fillColor="#ffff00">
         <bounds
-            x="24"
-            y="132"
+            x="163"
+            y="84"
             width="108"
             height="36"/>
         <archimateElement
@@ -202,7 +202,7 @@
           fillColor="#ff0000"
           textPosition="1">
         <bounds
-            x="156"
+            x="24"
             y="36"
             width="121"
             height="36"/>
@@ -215,8 +215,8 @@
           id="id-760dd4de4aab41ec990c5ccbe7b03ffd"
           fillColor="#ff0000">
         <bounds
-            x="156"
-            y="81"
+            x="24"
+            y="84"
             width="121"
             height="36"/>
         <archimateElement
@@ -269,7 +269,7 @@
           targetConnections="id-0c313d7bae3d44bcabf788cf186dffbf"
           fillColor="#ffff00">
         <bounds
-            x="12"
+            x="120"
             y="36"
             width="85"
             height="37"/>
@@ -283,7 +283,7 @@
           targetConnections="id-097c9499a55e4d85b76e46ee87dbe7d9"
           fillColor="#00ff00">
         <bounds
-            x="120"
+            x="12"
             y="36"
             width="85"
             height="37"/>
@@ -344,7 +344,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-450bb49015c4456bbd3ce3659c339e75"
           targetConnections="id-0433310509204535be033246c7148efe"
-          fillColor="#ff0000">
+          fillColor="#ff0000"
+          textPosition="1">
         <bounds
             x="12"
             y="36"
