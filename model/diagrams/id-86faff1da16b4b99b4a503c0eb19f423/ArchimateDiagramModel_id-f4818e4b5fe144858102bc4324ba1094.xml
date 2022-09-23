@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Usage"
+    name="3. Application Usage"
     id="id-f4818e4b5fe144858102bc4324ba1094">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -18,8 +18,8 @@
           href="ServingRelationship_id-c3981df1b17a4d9c94fc75b39fca4dcc.xml#id-c3981df1b17a4d9c94fc75b39fca4dcc"/>
     </sourceConnections>
     <bounds
-        x="73"
-        y="203"
+        x="85"
+        y="95"
         width="146"
         height="91"/>
     <archimateElement
@@ -40,8 +40,8 @@
           href="TriggeringRelationship_id-5e152a9ed68e42d2b279f0724ab15766.xml#id-5e152a9ed68e42d2b279f0724ab15766"/>
     </sourceConnections>
     <bounds
-        x="85"
-        y="498"
+        x="97"
+        y="390"
         width="121"
         height="73"/>
     <archimateElement
@@ -63,8 +63,8 @@
           href="TriggeringRelationship_id-29b5d0aac05f4630bf0ef18b8fecd047.xml#id-29b5d0aac05f4630bf0ef18b8fecd047"/>
     </sourceConnections>
     <bounds
-        x="349"
-        y="378"
+        x="361"
+        y="270"
         width="120"
         height="55"/>
     <archimateElement
@@ -86,8 +86,8 @@
           href="ServingRelationship_id-91cf6efc0e94426c95c6addf96ece6b4.xml#id-91cf6efc0e94426c95c6addf96ece6b4"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="204"
+        x="348"
+        y="96"
         width="146"
         height="91"/>
     <archimateElement
@@ -117,8 +117,8 @@
           href="TriggeringRelationship_id-895f9c30cdbb43d5ab3c0794c94948f4.xml#id-895f9c30cdbb43d5ab3c0794c94948f4"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="498"
+        x="360"
+        y="390"
         width="121"
         height="73"/>
     <archimateElement
@@ -140,8 +140,8 @@
           href="TriggeringRelationship_id-7cd965e1e7e544448e117a9e90924430.xml#id-7cd965e1e7e544448e117a9e90924430"/>
     </sourceConnections>
     <bounds
-        x="601"
-        y="378"
+        x="613"
+        y="270"
         width="120"
         height="55"/>
     <archimateElement
@@ -154,8 +154,8 @@
       targetConnections="id-8f03e0e7ceba455d9608c4aae905ad33 id-598e87c8023741c49f40621d6b56da58"
       textPosition="1">
     <bounds
-        x="588"
-        y="204"
+        x="600"
+        y="96"
         width="146"
         height="91"/>
     <archimateElement
