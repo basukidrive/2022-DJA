@@ -363,7 +363,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-aa9558ea9e4f4c7c9044b3e67f9558c4">
+      id="id-aa9558ea9e4f4c7c9044b3e67f9558c4"
+      fillColor="#80ffff">
     <bounds
         x="708"
         y="387"
@@ -401,7 +402,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5bd34a066e0f469981320b179126a219">
+      id="id-5bd34a066e0f469981320b179126a219"
+      fillColor="#80ffff">
     <bounds
         x="960"
         y="387"
@@ -439,7 +441,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b2e6316f6b9b40fe9e32021bb4cd2a1c">
+      id="id-b2e6316f6b9b40fe9e32021bb4cd2a1c"
+      fillColor="#80ffff">
     <bounds
         x="1224"
         y="387"
@@ -451,7 +454,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-219cce39f9e74615aeb58e0190d742d2">
+      id="id-219cce39f9e74615aeb58e0190d742d2"
+      fillColor="#80ffff">
     <bounds
         x="1488"
         y="387"
