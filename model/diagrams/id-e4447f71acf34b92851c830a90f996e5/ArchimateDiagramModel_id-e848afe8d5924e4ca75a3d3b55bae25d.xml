@@ -40,6 +40,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-afe5b0aa0396488485a07d8d9b471d4a"
+        fillColor="#ff321c"
         textPosition="1">
       <bounds
           x="336"
