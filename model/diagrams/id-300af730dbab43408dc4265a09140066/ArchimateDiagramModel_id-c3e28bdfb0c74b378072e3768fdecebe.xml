@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Struktur Organisasi DJA"
+    name="1. Struktur Organisasi DJA"
     id="id-c3e28bdfb0c74b378072e3768fdecebe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -204,7 +204,7 @@
         x="60"
         y="48"
         width="289"
-        height="349"/>
+        height="385"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-027604307222483b8e939a32ac072827"
@@ -251,8 +251,8 @@
       <bounds
           x="144"
           y="156"
-          width="120"
-          height="55"/>
+          width="133"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-b1cce0e54c15464ab240184ef421b58a.xml#id-b1cce0e54c15464ab240184ef421b58a"/>
@@ -263,7 +263,7 @@
         targetConnections="id-46a3840da6c64be8ac51e62f24f54dd9">
       <bounds
           x="12"
-          y="216"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -275,7 +275,7 @@
         id="id-557ca1649f9f43a8b99998a4f9974326">
       <bounds
           x="144"
-          y="216"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -288,7 +288,7 @@
         targetConnections="id-98b336824cff463db68750787d733fb5">
       <bounds
           x="12"
-          y="288"
+          y="312"
           width="120"
           height="55"/>
       <archimateElement
@@ -301,7 +301,7 @@
         targetConnections="id-2f033eebee5546cb93da7a287ef2eff6">
       <bounds
           x="144"
-          y="288"
+          y="312"
           width="120"
           height="55"/>
       <archimateElement
